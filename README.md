@@ -1,2 +1,2 @@
-# my-first-project
-"my first project Github project"
+# my first project
+this is my  first Github project!
